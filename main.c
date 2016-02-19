@@ -6,5 +6,7 @@ int main()
     int i=0;
     for(i=0;i<=5;i++)
     printf("%d\n",i);
+
+    int x=5+5;
     return 0;
 }
